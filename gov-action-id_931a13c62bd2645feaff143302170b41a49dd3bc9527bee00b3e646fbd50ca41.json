@@ -71,12 +71,7 @@
   },
   "authors": [
     {
-      "name": "Cardano Japan Council",
-      "witness": {
-        "witnessAlgorithm": "ed25519",
-        "publicKey": "",
-        "signature": ""
-      }
+      "name": "Cardano Japan Council"
     }
   ]
 }
